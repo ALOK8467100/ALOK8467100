@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok8467100&label=Profile%20views&color=0e75b6&style=flat" alt="alok8467100" /> </p>
 
-- 🌱 I’m currently learning **React.js, Java, Flutter**
+- 🌱 I’m currently learning **React.js, Java, Flutter, SQL**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript, TailWind, HTML, CSS**
 
 - 📫 How to reach me **akkumarcse08@gmail.com**
 
