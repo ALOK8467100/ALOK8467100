@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar</h1>
 <h3 align="center">Passionate about trying new things</h3>
 
-<img align = "right" width= 400 alt="coding" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
+<img align = "right" width= 400 radius="center" alt="coding" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok8467100&label=Profile%20views&color=0e75b6&style=flat" alt="alok8467100" /> </p>
 
